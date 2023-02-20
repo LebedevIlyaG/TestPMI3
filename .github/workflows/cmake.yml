@@ -22,7 +22,7 @@ jobs:
 
     - name: cmake
       # Build your program with the given configuration
-      run: cmake ..
+      run: cmake .
       
  
     - name: make
